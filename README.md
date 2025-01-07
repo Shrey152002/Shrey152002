@@ -18,9 +18,9 @@
 <div align="left">
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/shreyash-verma) 
-[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/shreyash1511)
-[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@shreyashverma1511)
+<a href="https://linkedin.com/in/shreyash-verma"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25"></a>&nbsp;&nbsp;
+<a href="https://kaggle.com/shreyash1511"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="25" width="25"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@shreyashverma1511"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="25" width="25"></a>
 
 ## 💻 Tech Stack
 
