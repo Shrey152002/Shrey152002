@@ -4,9 +4,11 @@
 ### 🎓 Third-Year Computer Science Student at IIIT Nagpur
 ### 🔍 AI/ML Enthusiast | Generative AI Developer | Real-Time Simulation Engineer
 
-<img src="https://www.lambdatest.com/resources/images/news24.gif" width="400" align="right" alt="Coding Animation">
-
 </div>
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+<div>
 
 ## 🚀 About Me
 - 🎯 Focused on AI/ML and Generative AI technologies
@@ -15,12 +17,18 @@
 - ⚡ Fun fact: I'm a Frontman 🥷🏽
 - 📫 Reach me at: **shreyashverma1511@gmail.com**
 
-<div align="left">
-
 ## 🔗 Connect With Me
 <a href="https://linkedin.com/in/shreyash-verma"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25"></a>&nbsp;&nbsp;
 <a href="https://kaggle.com/shreyash1511"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="25" width="25"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@shreyashverma1511"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="25" width="25"></a>
+
+</div>
+
+<div>
+<img src="https://www.lambdatest.com/resources/images/news24.gif" width="400" alt="Coding Animation">
+</div>
+
+</div>
 
 ## 💻 Tech Stack
 
