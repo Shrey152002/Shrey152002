@@ -80,10 +80,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shrey152002&color=blue&style=flat)
 
 </div>
----
-
-<div align="center">
-  
-📄 [Check out my Resume](https://drive.google.com/file/d/1PLTb3lvvtW1OtnpyGVq45b-QHRNgYMjM/view?usp=sharing)
-
-</div>
