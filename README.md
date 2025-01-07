@@ -61,9 +61,11 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrey152002&theme=dark)](https://github.com/shrey152002)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shrey152002&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shrey152002&show_icons=true&theme=dark" alt="GitHub Stats" />
 
@@ -72,7 +74,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shrey152002&color=blue&style=flat)
 
 </div>
-
 ---
 
 <div align="center">
