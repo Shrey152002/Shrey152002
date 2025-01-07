@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello World! I'm Shreyash Verma 👋 
-### 🎓 Third-Year Computer Science Student at IIIT Nagpur
+### 🎓 Third-Year Computer Science AI-ML Student at IIIT Nagpur
 ### 🔍 AI/ML Enthusiast | Generative AI Developer | Real-Time Simulation Engineer
 
 </div>
